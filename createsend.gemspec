@@ -1,6 +1,3 @@
-require 'bundler'
-require 'bundler/version'
-
 require File.expand_path('lib/createsend/version')
 
 Gem::Specification.new do |s|
